@@ -22,12 +22,9 @@
   - EIN: This identifier does not contribute to the predictive power of the model
   - NAME: The name of the organization is also not useful for predictions
  
+---
 
 ### Compiling, Training, and Evaluating the Model
-
-Models
-
----
 
 Model 1:
 * Layers: 3 layers (1 input layer, 2 hidden layers, 1 output layer)
