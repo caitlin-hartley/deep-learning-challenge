@@ -9,7 +9,7 @@
 * Target Variable:
   - IS_SUCCESSFUL: This binary variable indicates whether the applicant was successful (1) or not (0)
 
-*Feature Variable(s):
+* Feature Variable(s):
   - APPLICATION_TYPE: The type of application submitted
   - AFFILIATION: The affiliation of the organization
   - CLASSIFICATION: Classification codes representing the type of organization
